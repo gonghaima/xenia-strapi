@@ -2,7 +2,7 @@
   "defaultConnection": "default",
   "connections": {
     "default": {
-      "connector": "bookshelf",
+      "connector": "dsafdaf",
       "settings": {
         "client": "postgres",
         "host": "${process.env.DATABASE_HOST}",
