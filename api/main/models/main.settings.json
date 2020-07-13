@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mains",
+  "info": {
+    "name": "Main"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "details": {
+      "type": "richtext"
+    }
+  }
+}
