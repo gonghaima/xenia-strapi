@@ -1,3 +1,4 @@
+
 ############################
 # OS X
 ############################
@@ -110,3 +111,9 @@ coverage
 exports
 .cache
 build
+
+
+config/environments/*.*
+/config/environments/*
+config/*
+/config
