@@ -7,8 +7,7 @@
     "develop": "strapi start",
     "start": "strapi develop",
     "build": "strapi build",
-    "strapi": "strapi",
-    "deploy": "git push heroku master"
+    "strapi": "strapi"
   },
   "devDependencies": {},
   "dependencies": {
