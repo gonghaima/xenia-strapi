@@ -1,3 +1,3 @@
 # Strapi application
 
-api hosted on heroku
+api hosted on heroku 
